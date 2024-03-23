@@ -155,7 +155,8 @@ All bug fixes were dealt with efficiently and cleanly.
 
 <a id="credits"></a>
 ## Credits
-
+- This project is based on the "I Blog Therefore I Am" project from the LMS.
+  
 ### Content
 
 - The quotation that appears on our home page belongs to Arshile Gorky. We have found it at https://www.azquotes.com/quote/709942?ref=abstract-art
