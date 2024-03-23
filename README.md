@@ -155,7 +155,7 @@ All bug fixes were dealt with efficiently and cleanly.
 
 <a id="credits"></a>
 ## Credits
-- This project is based on the "I Blog Therefore I Am" project from the LMS.
+- This project is based on the "I Think Therefore I Blog" project from the LMS.
   
 ### Content
 
