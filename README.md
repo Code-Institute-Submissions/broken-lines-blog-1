@@ -60,7 +60,7 @@ The project backlog contains several "Could-Have" user stories and two "Won't Ha
 - **Entity Relationship Diagram**
 <p>The following data structure was created for the project.</p>
 
-<img width="1200" alt="erd" src="https://github.com/mbriscoe/broken-lines-blog/assets/86828720/a36f5174-0876-4d27-b6da-9bca6d88bf37">
+![screenshot](docs/images/erd.png)
 
 
 - **Navigation Bar**
